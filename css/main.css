@@ -556,3 +556,8 @@ table tr td :last-child {
 .title-logo {
   width: 65%;
 }
+
+.main-text {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin-top: 60px;
+}
