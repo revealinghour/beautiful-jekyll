@@ -578,3 +578,8 @@ table tr td :last-child {
   flex-direction: column;
   align-items: center;
 }
+
+.addresses {
+  display: flex;
+  justify-content: space-between;
+}
