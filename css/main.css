@@ -566,15 +566,12 @@ table tr td :last-child {
   display: flex;
 }
 
-.team.member {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-.team.img {
+.team .img {
   width: 383px;
 }
 
-.team.member {
+.team .member {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 75%;
   margin-top: 10px;
   display: flex;
