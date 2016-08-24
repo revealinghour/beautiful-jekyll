@@ -20,10 +20,10 @@ title: Contact us
   <div>
     <h3>Gurgaon</h3>
     <div>
-      Revealing Hour Creations  
-      875, Sector 17B  
-      Gurgaon – 122001  
-      Phone: +91.124.428.0241  
+      Revealing Hour Creations<br/>
+      875, Sector 17B<br/>
+      Gurgaon – 122001<br/>
+      Phone: +91.124.428.0241<br/>
       Phone: +91.9871.230.091
     </div>
   </div>
