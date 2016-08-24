@@ -3,7 +3,6 @@ layout: page
 title: Contact us
 ---
 
-<div class="main-text">
 ## Our offices
 
 ### Pune
@@ -20,4 +19,3 @@ Revealing Hour Creations
 Gurgaon – 122001
 Phone: +91.124.428.0241
 Phone: +91.9871.230.091
-</div>
