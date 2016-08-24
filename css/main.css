@@ -582,4 +582,5 @@ table tr td :last-child {
 .addresses {
   display: flex;
   justify-content: space-between;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
