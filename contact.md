@@ -12,7 +12,6 @@ title: Contact us
       Revealing Hour Creations<br/>
       402A Town Square, Viman Nagar<br/>
       Pune – 411014<br/>
-      Phone: +91.20.4121.0867<br/>
       Mobile: +91.9717.888.865
     </div>
   </div>
